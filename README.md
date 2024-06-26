@@ -1,1 +1,1 @@
-Hi, I’m Prasad Bhosale. A student from MIT-WPU currently persuing B.Tech in Computer Science. I am a Data-Science learning enthusiast and love to explore new things related to this field
+Results-driven C# Backend Developer with almost two years of experience leveraging object-oriented design principles to develop and maintain software applications. Computer Science graduate proficient in C# and Python coding, skilled in improving workflow efficiency and enhancing user engagement. Experienced in creating and maintaining technical specifications.
